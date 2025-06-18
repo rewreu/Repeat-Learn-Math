@@ -26,7 +26,7 @@ This app helps users improve their mental math by offering simple arithmetic pro
 
 If you encounter any issues or have suggestions, feel free to open an [Issue](https://github.com/yourusername/your-repo/issues) or email me at:
 
-📧 your-email@example.com
+📧 rewreu@gmail.com
 
 ---
 
@@ -45,4 +45,4 @@ This app does **not** collect or share any personal data. All player information
 
 ## 🧑‍💻 Developer
 
-Created by [Your Name](https://github.com/yourusername)
+Created by [Jason W](https://github.com/rewreu/Repeat-Learn-Math/edit/main/README.md)
